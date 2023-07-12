@@ -2,6 +2,6 @@
 
 🎓 Eager to learn and passionate about technology, IoT, robotics and AI. 
 
-🌱 My current skills are Java, C (ANSI C) and Assembly. 
+🌱 My current skills are Java, C and Assembly. 
 
 🔭 Currently improving my Java and Assembly programming along with some Arduino, and diving into the fascinating world of microcontrollers.
