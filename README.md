@@ -23,7 +23,12 @@ I'm an advanced computing engineering student at UNLP, interested on microcontro
           alt="taciano-pacchialat :: Top Langs by commit" />
           </a>
         </p>
-
+        <p align="center">
+          <a href="https://github.com/taciano-pacchialat/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=taciano-pacchialat&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=taciano-pacchialat&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=taciano-pacchialat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
