@@ -22,4 +22,3 @@ I'm an advanced computing engineering student at UNLP, interested on microcontro
   </a>
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=taciano-pacchialat&icon=10&color=2)](https://visitcount.itsvg.in)
