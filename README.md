@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an advanced computing engineering student at UNLP, interested on microcontrollers and robotics<br>but currently developing front end with Flutter and a little bit of backend with django. <br>
+Estudiante avanzado de Ingeniería en Computación en la Universidad Nacional de La Plata, con ganas de utilizar lo que aprendí para aplicaciones biomédicas. <br>
 
 
 ## 🌐 Socials:
